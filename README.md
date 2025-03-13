@@ -2,7 +2,7 @@
 
 🎓 A Recent Graduate from NSUT in B.Tech in Information Technology.<br/>
 🧠 Currently pursuing Data Science course from Coding Blocks.<br/>
-🧾 Here's My LinkedIn Profile [LinkedIn](www.linkedin.com/in/amitgupta2001)<br/>
+🧾 Here's My LinkedIn Profile:  [LinkedIn](www.linkedin.com/in/amitgupta2001)<br/>
 
 
 
